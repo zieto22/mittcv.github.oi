@@ -1,0 +1,123 @@
+.up{
+
+    background-color: grey;
+    width: 1200px;
+    border: 300px;
+    padding: 10px;
+    height: 60px;
+    height: -20px;
+  position: relative;left: -20px;
+}
+
+.down{
+
+    background-color: grey;
+    width: 1275px;
+    border: 300px;
+    padding: 10px;
+    height: 30px;
+    position: relative;left: -100px;
+    position: relative;bottom: -90px;
+   
+}
+
+
+
+
+.room{
+
+    background-color:black;
+    position: relative;top: -10px;
+    
+    width: 360px;
+    border: 300px;
+    padding: 10px;
+    height: 500px;
+}
+
+
+
+.walter {
+
+position: relative;left: 310px;
+position: relative; top: -450px;
+
+background-color: whitesmoke;
+    width: 250px;
+    border: 200px;
+    padding: 100px;
+    height: 170px;
+    overflow: scroll;
+
+}
+
+img{
+
+    position: relative;left: 30px;
+    height: 250px;
+    width: 300px;
+    border-radius: 75px;
+    
+
+}
+
+.smol{
+    background-color: whitesmoke;
+    position: relative;left: 500px;
+    position: relative;top: -400px;
+    width: 250px;
+    border: 200px;
+    padding: 1px;
+    height: 300px;
+    
+    
+
+}
+
+
+h1{
+
+color: white;
+position: relative; left: 100px;
+position: relative;top: -10px;
+
+}
+h2{
+
+
+    color: white;
+    position: relative;left: 20px;
+}
+
+h5{
+
+    
+    position: relative;top: -350px;
+    position: relative;left: 310px;
+
+}
+h6{
+
+position: relative; top: -350px;
+
+
+}
+header{
+
+    background-color: grey;
+}
+
+footer{
+
+
+    background-color: grey;
+}
+
+h3{
+
+    position: relative;top: -70px;
+}
+p{
+
+    position: relative;left: 100px;
+}
